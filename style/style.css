@@ -227,5 +227,84 @@ li {
 
     background: linear-gradient(90.00deg, rgb(241, 91, 34), rgba(241, 91, 34, 0) 100%);
     overflow: hidden;
-    
+
+}
+
+.footer {
+    display: flex;
+
+}
+
+.fu {
+    color: rgb(248, 248, 248);
+
+
+
+
+    font-size: 45px;
+
+    font-weight: 700;
+}
+
+footer {
+    background: rgb(21, 20, 20);
+}
+
+.column-1 {
+    margin: 130px 885px 130px 230px;
+
+}
+
+.fu-con {
+    color: rgb(255, 255, 255);
+
+
+
+    font-size: 16px;
+
+    font-weight: 400;
+}
+
+.fu-email,
+.fu-phone {
+    color: rgb(255, 255, 255);
+
+
+
+    font-size: 16px;
+
+    font-weight: 400;
+}
+
+.column-2 {
+    margin-top: 100px;
+    margin-right: 80px;
+}
+
+.sub {
+    color: rgb(255, 255, 255);
+
+
+
+    font-size: 25px;
+
+    font-weight: 600;
+}
+
+.scribe {
+
+
+    color: rgb(241, 91, 34);
+
+    padding: 20px;
+
+    font-size: 20px;
+
+    font-weight: 600;
+}
+
+.email {
+    padding: 21px 150px 20px 21px;
+   
+
 }
